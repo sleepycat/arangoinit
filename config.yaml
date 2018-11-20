@@ -1,0 +1,7 @@
+endpoints:
+   - 
+username: 
+password: 
+migrationspath: migrations
+db: cybercrime_production
+extras: {}
